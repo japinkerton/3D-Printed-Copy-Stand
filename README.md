@@ -2,25 +2,26 @@
 Open source copy stand for mirrorless/DSLR scanning film
 
 ## Parts List
-1x36” Perforated Steel Tubing
-SIZE Plywood Board
-9x 1/4-20x2” bolts (stainless)
-9x 1/4-20 nylon lock nuts (stainless)
-10x 1/4-20 flat washers (stainless)
-2x 1/4-20x3/4” button head machine screws (stainless)
-1x 4-way Macro Focusing Rail (See Notes)
+- 1x36” Perforated Steel Tubing
+- SIZE Plywood Board
+- 9x 1/4-20x2” bolts (stainless)
+- 9x 1/4-20 nylon lock nuts (stainless)
+- 10x 1/4-20 flat washers (stainless)
+- 2x 1/4-20x3/4” button head machine screws (stainless)
+- 1x 4-way Macro Focusing Rail (See Notes)
 
 ## 3D Printed Parts
-Base Bracket
-Camera Bracket
-Camera Bracket Bolt Knob
+- Base Bracket
+- Camera Bracket
+- Camera Bracket Bolt Knob
 
 ## Printing Parameters
-Slicer: Creality Print Material: Matterhackers Build Series PETG
-Infill: 30% cubic
-Wall Loops: 4
-Top/Bottom Shell Layers: 8
-Supports: None
+|Slicer|Creality Print |
+|Material|Matterhackers Build Series PETG|
+|Infill| 30% cubic|
+|Wall Loops|4|
+|Top/Bottom Shell Layers|8|
+|Supports|None|
 
 
 ## Notes
