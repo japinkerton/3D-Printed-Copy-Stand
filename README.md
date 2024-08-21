@@ -1,7 +1,9 @@
 # 3D-Printed-Copy-Stand
 Open source copy stand for mirrorless/DSLR scanning film
 
-All parts were designed in OpenSCAD for a parametric approach.  Rendered parts as I printed them are located in STL.
+All parts were designed in OpenSCAD for a parametric approach.
+
+If you don't know how to use OpenSCAD, don't worry.  The parts you're looking for are in the STL folder.
 
 ## 3D Printed Parts
 - Base Bracket
