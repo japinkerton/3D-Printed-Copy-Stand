@@ -16,12 +16,14 @@ Open source copy stand for mirrorless/DSLR scanning film
 - Camera Bracket Bolt Knob
 
 ## Printing Parameters
-|Slicer|Creality Print |
-|Material|Matterhackers Build Series PETG|
-|Infill| 30% cubic|
-|Wall Loops|4|
-|Top/Bottom Shell Layers|8|
-|Supports|None|
+|Parameter|Value|Note|
+|-----|-----|-----|
+|Slicer|Creality Print ||
+|Material|Matterhackers Build Series PETG|Tested PLA, which didn't seem strong enough|
+|Infill| 30% cubic||
+|Wall Loops|4|Double the default for Creality Print|
+|Top/Bottom Shell Layers|8|Double the default for Creality Print|
+|Supports|None||
 
 
 ## Notes
