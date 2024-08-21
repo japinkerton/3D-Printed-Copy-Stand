@@ -1,7 +1,14 @@
 # 3D-Printed-Copy-Stand
 Open source copy stand for mirrorless/DSLR scanning film
 
-## Parts List
+All parts were designed in OpenSCAD for a parametric approach.  Rendered parts as I printed them are located in STL.
+
+## 3D Printed Parts
+- Base Bracket
+- Camera Bracket
+- Camera Bracket Bolt Knob
+
+## Other Parts List
 - 1x36” Perforated Steel Tubing
 - SIZE Plywood Board
 - 9x 1/4-20x2” bolts (stainless)
@@ -9,11 +16,6 @@ Open source copy stand for mirrorless/DSLR scanning film
 - 10x 1/4-20 flat washers (stainless)
 - 2x 1/4-20x3/4” button head machine screws (stainless)
 - 1x 4-way Macro Focusing Rail (See Notes)
-
-## 3D Printed Parts
-- Base Bracket
-- Camera Bracket
-- Camera Bracket Bolt Knob
 
 ## Printing Parameters
 |Parameter|Value|Note|
