@@ -3,7 +3,7 @@ Open source copy stand for mirrorless/DSLR scanning film
 
 All parts were designed in OpenSCAD for a parametric approach.
 
-If you don't know how to use OpenSCAD, don't worry.  The parts you're looking for are on Thingiverse.
+If you don't know how to use OpenSCAD, don't worry.  The parts you're looking for are on [Thingiverse](https://www.thingiverse.com/thing:6738806).
 
 ## 3D Printed Parts
 - Base Bracket
