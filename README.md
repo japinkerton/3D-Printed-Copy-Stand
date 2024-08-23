@@ -42,7 +42,7 @@ The focusing rail I used is an older Neewer one that is no longer available from
 This bolt only needs to be finger tight.  I used a hexagonal knob to be purposely difficult to grasp and turn.  This is to prevent over-tightening, which can cause the captive nut in the camera bracket to break loose and spin freely.  If this happens you will be unable to remove the camera bracket from the stem.
 
 ### Camera Weight
-The base bracket easily holds my 1kg mirrorless camera in the highest position (I typically use a much lower position to scan 35mm film).  If you are using a larger DSLR and/or heavier lens, you may need a larger base bracket.  This can be done by increasing the following values in baseBracket.scad:
+The base bracket easily holds my 2.2lb (1kg) mirrorless camera in the highest position (I typically use a much lower position to scan 35mm film).  If you are using a larger DSLR and/or heavier lens, you may need a larger base bracket.  This can be done by increasing the following values in baseBracket.scad:
 ```
 HEIGHT
 BASE_WIDTH
