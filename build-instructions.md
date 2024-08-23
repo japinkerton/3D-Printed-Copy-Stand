@@ -1,4 +1,6 @@
-#Build Instructions
+# Build Instructions
+
+(Refer to the Photos for details)
 
 1. Print the Base Bracket, Camera Bracket, and Knob according to the parameters in the README
 2. Assemble the base plate by screwing the 2x4 pieces to the underside of the plywood board on the left and right side
