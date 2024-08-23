@@ -12,7 +12,8 @@ If you don't know how to use OpenSCAD, don't worry.  The parts you're looking fo
 
 ## Other Parts List
 - 1x36” Perforated Steel Tubing
-- SIZE Plywood Board
+- 18x18x3/4" Plywood Board (Or larger)
+- 2x 18" long 2x4 boards
 - 9x 1/4-20x2” bolts (stainless)
 - 9x 1/4-20 nylon lock nuts (stainless)
 - 10x 1/4-20 flat washers (stainless)
