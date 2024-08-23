@@ -11,4 +11,5 @@
 7. Insert a lock nut into the hexagonal hole on the camera bracket, using a drop of super glue to hold it in place.  Allow it to dry before proceeding
 9. Attach the Camera Bracket to the macro focusing rail using 2x 3/4" machine screws and 2x washers (DO NOT OVERTIGHTEN)
 10. Insert a 1-1/2" bolt head into the knob.
-11. Attach the Camera Bracket to the perforated steel tube.  Use the pin at the bottom of the Camera Bracket for alignment, and use the Knob bolt to secure the bracket
+11. Attach the Camera Bracket to the perforated steel tube.  Use the pin at the bottom of the Camera Bracket for alignment, and use the Knob bolt to secure the bracket (again... DO NOT OVERTIGHTEN)
+12. Sand any rough edges from the wood parts to avoid scratching your negatives
