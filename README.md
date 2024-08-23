@@ -52,4 +52,3 @@ BASE_HOLE_DISTANCE
 
 ## Future Improvements
 - Smooth sharp corners from base bracket
-- Improve alignment between camera bracket and focusing rail
