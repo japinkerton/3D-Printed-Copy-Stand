@@ -3,8 +3,7 @@ BOLT_HEAD_DEPTH = 4;
 KNOB_DIAMETER = 30;
 KNOB_DEPTH = 10;
 KNOB_SIDES = 6; //4=square, 6=hexagon, etc
-
-difference()
+rotate([180,0,0]) difference()
 {
 	cylinder_outer(KNOB_DEPTH,KNOB_DIAMETER/2,KNOB_SIDES);
 	cylinder_outer(BOLT_HEAD_DEPTH,BOLT_HEAD_SIZE/2,6);
