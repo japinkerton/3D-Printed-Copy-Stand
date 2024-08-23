@@ -14,7 +14,8 @@ If you don't know how to use OpenSCAD, don't worry.  The parts you're looking fo
 - 1x36” Perforated Steel Tubing
 - 18x18x3/4" Plywood Board (Or larger)
 - 2x 18" long 2x4 boards
-- 9x 1/4-20x2” bolts (stainless)
+- 4x 1/4-20x2” bolts (stainless)
+- 5x 1/4-20x1-1/2" bolts (stainless)
 - 9x 1/4-20 nylon lock nuts (stainless)
 - 10x 1/4-20 flat washers (stainless)
 - 2x 1/4-20x3/4” button head machine screws (stainless)
