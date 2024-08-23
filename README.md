@@ -25,7 +25,7 @@ If you don't know how to use OpenSCAD, don't worry.  The parts you're looking fo
 |Parameter|Value|Note|
 |-----|-----|-----|
 |Slicer|Creality Print ||
-|Material|Matterhackers Build Series PETG|Tested PLA, which didn't seem strong enough|
+|Material|AmazonBasics PETG|Tested PLA, which didn't seem strong enough|
 |Infill| 30% cubic||
 |Wall Loops|4|Double the default for Creality Print|
 |Top/Bottom Shell Layers|8|Double the default for Creality Print|
